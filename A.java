@@ -306,7 +306,6 @@ public class A {
             names[i] = liter.next().text();
             lit[i++] = liter.next().text();
             String aux = liter.next().text();
-            //System.out.println(lit[i - 1] + " " + names[i - 1]);
         }
 
     }
